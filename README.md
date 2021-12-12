@@ -10,6 +10,5 @@ The 3 modes : Human vs Human
 Computer vs Computer gameplay demonstration:
 
 
-
-https://user-images.githubusercontent.com/83302424/145712426-3a0f8443-7eaf-4ba3-b568-a18ebea75cf5.mov
+https://user-images.githubusercontent.com/83302424/145712684-784f3994-3274-42d8-8bcc-c6ba0262cc69.mov
 
