@@ -5,9 +5,9 @@ Basic artificial intelligence implemented.
 3 degrees of difficulty in all 3 game modes.
 
 The 3 modes : 
-Human vs Human
-Human vs Computer
-Computer vs Computer
+- Human vs Human
+- Human vs Computer
+- Computer vs Computer
           
 Computer vs Computer gameplay demonstration:
 
